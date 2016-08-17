@@ -1,0 +1,18 @@
+body {
+	font-family: Courier;
+}
+
+#mainHeader {
+	background-image: url(../../../../Grand-Central-Terminal-clock.jpg);
+	/*background-image: url(../../../../kievsky-railway-station.jpg);*/
+	background-size: 1150px;
+	color: yellow;
+	text-shadow: 2px 2px red;
+}
+
+label, #submit {
+	display: block;
+	font-weight: bold;
+}
+
+
