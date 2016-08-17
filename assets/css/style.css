@@ -3,7 +3,7 @@ body {
 }
 
 #mainHeader {
-	background-image: url(../../../../Grand-Central-Terminal-clock.jpg);
+	background-image: url(../images/Grand-Central-Terminal-clock.jpg);
 	/*background-image: url(../../../../kievsky-railway-station.jpg);*/
 	background-size: 1150px;
 	color: yellow;
