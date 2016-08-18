@@ -26,7 +26,7 @@ $("#submit").on("click", function(){
 	$("#trainName").val("");
 	$("#trainDestination").val("");
 	$("#firstTrain").val("");
-	$("#trainFrequency").val("")
+	$("#trainFrequency").val("");
 
 	return false;
 	
